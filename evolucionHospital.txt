@@ -1,0 +1,138 @@
+(01/12/2022 11:10.36) : P0000 ha pasado a la sala de espera
+(01/12/2022 11:10.37) : P0001 ha pasado a la sala de espera
+(01/12/2022 11:10.37) : P0000 ha pasado a la sala de vacunación
+(01/12/2022 11:10.37) : P0001 ha pasado a la sala de vacunación
+(01/12/2022 11:10.39) : P0002 ha pasado a la sala de espera
+(01/12/2022 11:10.39) : P0002 ha pasado a la sala de vacunación
+(01/12/2022 11:10.40) : P0003 ha pasado a la sala de espera
+(01/12/2022 11:10.40) : P0003 ha pasado a la sala de vacunación
+(01/12/2022 11:10.41) : P0000 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:10.41) : P0000 ha pasado a la sala de observación
+(01/12/2022 11:10.41) : P0001 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:10.41) : P0001 ha pasado a la sala de observación
+(01/12/2022 11:10.42) : P0004 ha pasado a la sala de espera
+(01/12/2022 11:10.42) : P0004 ha pasado a la sala de vacunación
+(01/12/2022 11:10.42) : P0002 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:10.42) : P0002 ha pasado a la sala de observación
+(01/12/2022 11:10.44) : P0003 ha sido vacuando por el sanitario S09 en el puesto 3
+(01/12/2022 11:10.44) : P0003 ha pasado a la sala de observación
+(01/12/2022 11:10.44) : P0005 ha pasado a la sala de espera
+(01/12/2022 11:10.44) : P0005 ha pasado a la sala de vacunación
+(01/12/2022 11:10.46) : P0006 ha pasado a la sala de espera
+(01/12/2022 11:10.46) : P0006 ha pasado a la sala de vacunación
+(01/12/2022 11:10.46) : P0004 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:10.46) : P0004 ha pasado a la sala de observación
+(01/12/2022 11:10.47) : P0007 ha pasado a la sala de espera
+(01/12/2022 11:10.47) : P0007 ha pasado a la sala de vacunación
+(01/12/2022 11:10.49) : P0005 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:10.49) : P0005 ha pasado a la sala de observación
+(01/12/2022 11:10.50) : P0008 ha pasado a la sala de espera
+(01/12/2022 11:10.50) : P0008 ha pasado a la sala de vacunación
+(01/12/2022 11:10.50) : Auxiliar A2 ha iniciado su descanso
+(01/12/2022 11:10.51) : P0006 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:10.51) : P0006 ha pasado a la sala de observación
+(01/12/2022 11:10.51) : P0000 ha salido del hospital
+(01/12/2022 11:10.51) : P0001 ha salido del hospital
+(01/12/2022 11:10.52) : Auxiliar A2 ha salido de su descanso
+(01/12/2022 11:10.52) : P0007 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:10.52) : P0007 ha pasado a la sala de observación
+(01/12/2022 11:10.52) : P0002 ha salido del hospital
+(01/12/2022 11:10.53) : P0009 ha pasado a la sala de espera
+(01/12/2022 11:10.53) : Auxiliar A1 ha iniciado su descanso
+(01/12/2022 11:10.53) : P0009 ha pasado a la sala de vacunación
+(01/12/2022 11:10.54) : P0008 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:10.54) : P0008 ha pasado a la sala de observación
+(01/12/2022 11:10.54) : P0003 ha salido del hospital
+(01/12/2022 11:10.56) : P0004 ha salido del hospital
+(01/12/2022 11:10.57) : P0009 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:10.57) : P0009 ha pasado a la sala de observación
+(01/12/2022 11:10.57) : Auxiliar A1 ha salido de su descanso
+(01/12/2022 11:10.58) : P0010 ha pasado a la sala de espera
+(01/12/2022 11:10.59) : P0011 ha pasado a la sala de espera
+(01/12/2022 11:10.59) : P0010 ha pasado a la sala de vacunación
+(01/12/2022 11:10.59) : P0011 ha pasado a la sala de vacunación
+(01/12/2022 11:10.59) : P0005 ha salido del hospital
+(01/12/2022 11:11.00) : P0012 ha pasado a la sala de espera
+(01/12/2022 11:11.00) : P0012 ha pasado a la sala de vacunación
+(01/12/2022 11:11.01) : P0006 ha salido del hospital
+(01/12/2022 11:11.01) : P0013 ha pasado a la sala de espera
+(01/12/2022 11:11.01) : P0013 ha pasado a la sala de vacunación
+(01/12/2022 11:11.02) : P0007 ha salido del hospital
+(01/12/2022 11:11.02) : P0011 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:11.02) : P0011 ha pasado a la sala de observación
+(01/12/2022 11:11.03) : P0010 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:11.03) : P0010 ha pasado a la sala de observación
+(01/12/2022 11:11.03) : P0012 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:11.03) : P0012 ha pasado a la sala de observación
+(01/12/2022 11:11.03) : P0014 ha pasado a la sala de espera
+(01/12/2022 11:11.03) : P0014 ha pasado a la sala de vacunación
+(01/12/2022 11:11.04) : P0008 ha salido del hospital
+(01/12/2022 11:11.05) : P0013 ha sido vacuando por el sanitario S09 en el puesto 3
+(01/12/2022 11:11.05) : P0013 ha pasado a la sala de observación
+(01/12/2022 11:11.05) : P0015 ha pasado a la sala de espera
+(01/12/2022 11:11.05) : P0015 ha pasado a la sala de vacunación
+(01/12/2022 11:11.06) : P0016 ha pasado a la sala de espera
+(01/12/2022 11:11.06) : P0016 ha pasado a la sala de vacunación
+(01/12/2022 11:11.07) : P0009 ha salido del hospital
+(01/12/2022 11:11.07) : Auxiliar A2 ha iniciado su descanso
+(01/12/2022 11:11.08) : P0014 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:11.08) : P0014 ha pasado a la sala de observación
+(01/12/2022 11:11.08) : P0017 ha pasado a la sala de espera
+(01/12/2022 11:11.08) : P0017 ha pasado a la sala de vacunación
+(01/12/2022 11:11.09) : Auxiliar A2 ha salido de su descanso
+(01/12/2022 11:11.10) : P0015 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:11.10) : P0015 ha pasado a la sala de observación
+(01/12/2022 11:11.10) : P0016 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:11.10) : P0016 ha pasado a la sala de observación
+(01/12/2022 11:11.11) : P0018 ha pasado a la sala de espera
+(01/12/2022 11:11.11) : P0018 ha pasado a la sala de vacunación
+(01/12/2022 11:11.12) : P0019 ha pasado a la sala de espera
+(01/12/2022 11:11.12) : Auxiliar A1 ha iniciado su descanso
+(01/12/2022 11:11.12) : P0019 ha pasado a la sala de vacunación
+(01/12/2022 11:11.12) : P0011 ha salido del hospital
+(01/12/2022 11:11.13) : P0010 ha salido del hospital
+(01/12/2022 11:11.13) : P0017 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:11.13) : P0017 ha pasado a la sala de observación
+(01/12/2022 11:11.13) : P0012 ha salido del hospital
+(01/12/2022 11:11.14) : P0018 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:11.14) : P0018 ha pasado a la sala de observación
+(01/12/2022 11:11.15) : P0013 ha salido del hospital
+(01/12/2022 11:11.16) : P0019 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:11.16) : P0019 ha pasado a la sala de observación
+(01/12/2022 11:11.16) : Auxiliar A1 ha salido de su descanso
+(01/12/2022 11:11.17) : P0020 ha pasado a la sala de espera
+(01/12/2022 11:11.18) : P0014 ha salido del hospital
+(01/12/2022 11:11.18) : P0021 ha pasado a la sala de espera
+(01/12/2022 11:11.18) : P0020 ha pasado a la sala de vacunación
+(01/12/2022 11:11.18) : P0021 ha pasado a la sala de vacunación
+(01/12/2022 11:11.19) : P0022 ha pasado a la sala de espera
+(01/12/2022 11:11.19) : P0022 ha pasado a la sala de vacunación
+(01/12/2022 11:11.20) : P0015 ha salido del hospital
+(01/12/2022 11:11.20) : P0016 ha salido del hospital
+(01/12/2022 11:11.20) : P0023 ha pasado a la sala de espera
+(01/12/2022 11:11.20) : P0023 ha pasado a la sala de vacunación
+(01/12/2022 11:11.21) : P0021 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:11.21) : P0021 ha pasado a la sala de observación
+(01/12/2022 11:11.22) : P0020 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:11.22) : P0020 ha pasado a la sala de observación
+(01/12/2022 11:11.23) : P0017 ha salido del hospital
+(01/12/2022 11:11.23) : Auxiliar A2 ha iniciado su descanso
+(01/12/2022 11:11.24) : P0022 ha sido vacuando por el sanitario S04 en el puesto 2
+(01/12/2022 11:11.24) : P0022 ha pasado a la sala de observación
+(01/12/2022 11:11.24) : P0024 ha pasado a la sala de espera
+(01/12/2022 11:11.24) : P0024 ha pasado a la sala de vacunación
+(01/12/2022 11:11.24) : P0023 ha sido vacuando por el sanitario S09 en el puesto 3
+(01/12/2022 11:11.24) : P0023 ha pasado a la sala de observación
+(01/12/2022 11:11.24) : P0018 ha salido del hospital
+(01/12/2022 11:11.25) : Auxiliar A2 ha salido de su descanso
+(01/12/2022 11:11.26) : P0025 ha pasado a la sala de espera
+(01/12/2022 11:11.26) : P0025 ha pasado a la sala de vacunación
+(01/12/2022 11:11.26) : P0019 ha salido del hospital
+(01/12/2022 11:11.27) : P0024 ha sido vacuando por el sanitario S02 en el puesto 0
+(01/12/2022 11:11.27) : P0024 ha pasado a la sala de observación
+(01/12/2022 11:11.28) : P0026 ha pasado a la sala de espera
+(01/12/2022 11:11.28) : P0026 ha pasado a la sala de vacunación
+(01/12/2022 11:11.30) : P0025 ha sido vacuando por el sanitario S07 en el puesto 1
+(01/12/2022 11:11.30) : P0025 ha pasado a la sala de observación
+(01/12/2022 11:11.30) : P0027 ha pasado a la sala de espera
+(01/12/2022 11:11.30) : P0027 ha pasado a la sala de vacunación
